@@ -11,3 +11,6 @@ Langgo is a go lightweight framework.
 * Support backend, cross-platform desktop, and personal software development.
 * Easy to work with other frameworks.
 
+### Version
+
+<figure><img src="https://img.shields.io/github/v/tag/langwan/langgo" alt=""><figcaption></figcaption></figure>
