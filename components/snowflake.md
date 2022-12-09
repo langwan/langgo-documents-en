@@ -4,8 +4,7 @@ description: Generate Snowflake Id
 
 # Snowflake
 
-### Example
-
+{% code title="main.go" %}
 ```go
 package main
 
@@ -25,6 +24,7 @@ func main() {
 	fmt.Printf("Int64  ID: %d\n", id)
 }
 ```
+{% endcode %}
 
 {% code title="output" %}
 ```shell

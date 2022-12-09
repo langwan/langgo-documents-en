@@ -35,7 +35,7 @@
 * [Password](components/password.md)
 * [Download](components/download/README.md)
   * [Downloading Http File](components/download/downloading-http-file.md)
-  * [Downloading Oss File](components/download/downloading-oss-file.md)
+  * [Downloading OSS File](components/download/downloading-oss-file.md)
   * [Downloading S3 File](components/download/downloading-s3-file.md)
 * [Upload](components/upload/README.md)
   * [Uploading File S3](components/upload/uploading-file-s3.md)

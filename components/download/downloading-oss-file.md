@@ -1,4 +1,4 @@
-# Downloading Oss File
+# Downloading OSS File
 
 {% code title="app.yml" %}
 ```
