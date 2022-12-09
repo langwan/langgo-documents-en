@@ -1,8 +1,8 @@
 ---
-description: Mysql database With Gorm
+description: MySQL database With GORM
 ---
 
-# Mysql
+# MySQL
 
 ### Single Instance
 

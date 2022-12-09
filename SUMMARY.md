@@ -24,7 +24,7 @@
 
 ## Components
 
-* [Mysql](components/mysql.md)
+* [MySQL](components/mysql.md)
 * [Redis](components/redis.md)
 * [Sqlite](components/sqlite.md)
 * [FFmpeg](components/ffmpeg.md)
