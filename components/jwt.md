@@ -4,8 +4,7 @@ description: Json Web Token
 
 # Jwt
 
-### Example
-
+{% code title="main.go" %}
 ```go
 package main
 
@@ -32,6 +31,7 @@ func main() {
 	}
 }
 ```
+{% endcode %}
 
 {% embed url="https://github.com/langwan/langgo-examples/tree/main/0.5.x/Components/Jwt" %}
 

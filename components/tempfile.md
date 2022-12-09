@@ -4,8 +4,9 @@ description: Generate and manage temporary files
 
 # TempFile
 
-### Simple
+### Basic
 
+{% code title="main.go" %}
 ```go
 package main
 
@@ -31,11 +32,13 @@ func main() {
 	fmt.Println(string(data))
 }
 ```
+{% endcode %}
 
 {% embed url="https://github.com/langwan/langgo-examples/tree/main/0.5.x/Components/TempFile/Simple" %}
 
 ### Read And Remove
 
+{% code title="main.go" %}
 ```go
 package main
 
@@ -61,6 +64,7 @@ func main() {
    fmt.Println(string(data))
 }
 ```
+{% endcode %}
 
 if `ReadFile()` method parameter `remove` is true read and remove file.
 

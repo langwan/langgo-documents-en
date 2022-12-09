@@ -1,11 +1,10 @@
 ---
-description: Sqlite Database With Gorm
+description: With GORM
 ---
 
 # Sqlite
 
-### Example
-
+{% code title="main.go" %}
 ```go
 package main
 
@@ -22,5 +21,6 @@ func main() {
 	fmt.Println(i)
 }
 ```
+{% endcode %}
 
 {% embed url="https://github.com/langwan/langgo-examples/tree/main/0.5.x/Components/Sqlite" %}

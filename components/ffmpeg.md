@@ -1,5 +1,5 @@
 ---
-description: Transcoding and generating thumbnails using FFmpeg.
+description: Transcoding, generating thumbnails and duration using FFmpeg.
 ---
 
 # FFmpeg

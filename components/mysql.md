@@ -1,5 +1,5 @@
 ---
-description: MySQL database With GORM
+description: With GORM
 ---
 
 # MySQL
