@@ -1,10 +1,8 @@
 ---
-description: Aes Encryption Algorithm
+description: Aes Encryption
 ---
 
 # Aes
-
-### Example
 
 ```go
 package main

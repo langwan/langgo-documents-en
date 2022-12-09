@@ -1,5 +1,5 @@
 ---
-description: Rsa Encryption Algorithm
+description: Rsa Encryption
 ---
 
 # Rsa

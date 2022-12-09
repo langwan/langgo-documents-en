@@ -1,7 +1,10 @@
+---
+description: Call Struct Function
+---
+
 # Code
 
-Call Struct Function
-
+{% code title="main.go" %}
 ```go
 package main
 
@@ -38,5 +41,6 @@ func main() {
    fmt.Printf("response = %v\n", response)
 }
 ```
+{% endcode %}
 
 {% embed url="https://github.com/langwan/langgo-examples/tree/main/0.5.x/Helpers/Code/Call-Struct-Function" %}

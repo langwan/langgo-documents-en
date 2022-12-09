@@ -1,8 +1,8 @@
 ---
-description: Os Library enhancements
+description: OS Library enhancements
 ---
 
-# Os
+# OS
 
 ### Copying File
 
@@ -69,8 +69,7 @@ move file 187040 bytes
 
 ### Copying File Watcher
 
-Observing file copies
-
+{% code title="main.go" %}
 ```go
 package main
 
@@ -92,6 +91,7 @@ func main() {
    }
 }
 ```
+{% endcode %}
 
 {% code title="output" %}
 ```

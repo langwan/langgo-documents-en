@@ -1,5 +1,5 @@
 ---
-description: Executing external commands
+description: Executing system or outside commands
 ---
 
 # Command

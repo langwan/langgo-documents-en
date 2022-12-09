@@ -48,7 +48,7 @@
 * [Aes](helpers/aes.md)
 * [Rsa](helpers/rsa.md)
 * [Gen](helpers/gen.md)
-* [Os](helpers/os.md)
+* [OS](helpers/os.md)
 * [OSS](helpers/oss.md)
 * [S3](helpers/s3.md)
 * [Lru](helpers/lru.md)
