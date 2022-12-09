@@ -24,13 +24,13 @@ func main() {
 
 The `langgo.Logger()` method is output log info, `"app"` is the filename, `"main"` is the tag, other same as [zerolog](https://github.com/rs/zerolog).
 
-Log Files
-
+{% code title="file system" %}
 ```
 App (root)
 └─ logs
    └─ app.log
 ```
+{% endcode %}
 
 {% embed url="https://github.com/langwan/langgo-examples/tree/main/0.5.x/Basic/Log/Basic" %}
 
@@ -54,14 +54,14 @@ func main() {
 }
 ```
 
-Log Files
-
+{% code title="file system" %}
 ```
 App (root)
 └─ logs
    └─ app.log
    └─ db.log
 ```
+{% endcode %}
 
 {% embed url="https://github.com/langwan/langgo-examples/tree/main/0.5.x/Basic/Log/Multi-Log-Files" %}
 
