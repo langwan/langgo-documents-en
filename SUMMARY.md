@@ -52,4 +52,5 @@
 * [OSS](helpers/oss.md)
 * [S3](helpers/s3.md)
 * [Lru](helpers/lru.md)
+* [Encrypt File](helpers/encrypt-file.md)
 * [Size](helpers/size.md)
